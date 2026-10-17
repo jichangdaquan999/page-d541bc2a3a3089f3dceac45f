@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-97dc171632.ssghec.cn/sitemap.xml
